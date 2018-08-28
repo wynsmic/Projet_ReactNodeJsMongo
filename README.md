@@ -1,4 +1,4 @@
-
+This projet is for training only. Althought it is not finished yet, it can be used as a boilerplate. 
 
 ### Configuration
 - **Platform:** node
