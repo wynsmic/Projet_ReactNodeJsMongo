@@ -1,0 +1,2 @@
+
+export const ItemTypes = {  PRODUCT: 'PRODUCT', PRODUCT_SELECTED: 'PRODUCT_SELECTED' };
