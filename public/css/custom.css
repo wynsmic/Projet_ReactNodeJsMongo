@@ -1,0 +1,64 @@
+html, body, #app{
+	height: 100% !important;
+}
+
+nav {
+	height: 5% !important;
+	margin:0 !important;
+}
+
+[data-reactroot]{
+	height: 100%;
+}
+
+#market{
+	height: 95%;
+
+
+}
+
+.market{
+	height: 100%;
+
+}
+
+
+
+.shelft{
+	height: 60%;
+	display: flex;
+
+}
+
+
+.shelft_top{
+	height: 30%;
+
+}
+.shelft_center{
+	height: 40%;
+
+}
+.shelft_bot{
+	height: 30%;
+
+}
+
+#MarketBackground{
+	position: fixed;
+	left: 0px;
+}
+#boardBackground{
+	position: absolute;
+	left: 0px;
+
+}
+.board, #boardBackground{
+	height: 30%;
+	width: 100%;
+}
+
+.market_bot{
+	height: 10%;
+	width: 100%;
+}
