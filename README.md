@@ -1,4 +1,7 @@
-This projet is for training only. Althought it is not finished yet, it can be used as a boilerplate. 
+This projet is for training only. Althought it is not finished yet, it can be used as a boilerplate.
+
+Once finished, it aims to be enhanced user experienced market place. Drag and drop will be the basis of such UX, together with machine learning feature able to recommand best sets of goods !
+
 
 ### Configuration
 - **Platform:** node
